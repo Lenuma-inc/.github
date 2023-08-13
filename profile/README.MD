@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" width="64" alt="Lenuma logo"></img>
+  <img src="https://raw.githubusercontent.com/Lenuma-inc/.github/main/profile/logo.png" width="64" alt="Lenuma logo"></img>
   <br/>
   <h1 align="center">Lenuma</h1>
   <p align="center">At Lenuma, we are dedicated to developing software that empowers users to achieve their goals efficiently and effectively </p>
